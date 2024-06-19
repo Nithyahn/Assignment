@@ -1,8 +1,6 @@
 import React from "react";
 import logo from '../../assets/logo.png'; 
-import starimg1 from '../../assets/star.png';
-import email from '../../assets/email.png'; 
-import call from '../../assets/call.png'; 
+
 
 const NavLinks = [
  
